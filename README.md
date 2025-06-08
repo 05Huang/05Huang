@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring-cloud&logoColor=white" alt="Spring Cloud"/> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/MyBatis-009688?style=flat&logo=mybatis&logoColor=white" alt="MyBatis"/> 
   <img src="https://img.shields.io/badge/MyBatis_Plus-009688?style=flat&logo=mybatis&logoColor=white&label=MyBatis-Plus" alt="MyBatis-Plus"/> 
   
   <!-- 工具与环境 -->
