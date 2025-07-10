@@ -48,16 +48,10 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" alt="Webpack"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Cursor-21232A?style=flat&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=maven&logoColor=white" alt="Maven"/> 
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx"/> 
-  <img src="https://img.shields.io/badge/PlantUML-005F87?style=flat&logo=plantuml&logoColor=white" alt="PlantUML"/> 
   <img src="https://img.shields.io/badge/Apifox-FF2D55?style=flat&logo=apifox&logoColor=white" alt="Apifox"/> 
 </div>
 
