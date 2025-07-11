@@ -24,8 +24,6 @@
   <!-- 编程语言 -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/JDK-17-007396?style=flat&logo=openjdk&logoColor=white" alt="JDK 17"/> 
   
   <!-- 前端技术 -->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
