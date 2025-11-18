@@ -22,7 +22,7 @@
 ### 🧰 技术栈 & 工具
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,git,github,java,spring,maven,python,mysql,redis,docker,linux,vscode,idea,webstorm,pycharm,postman,androidstudio,bootstrap,eclipse,gmail,jenkins,kafka,kotlin,kubernetes,lua,md,mongodb,nginx,powershell,nodejs,stackoverflow,rabbitmq,wordpress,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,git,github,java,spring,maven,python,mysql,redis,docker,linux,vscode,idea,webstorm,pycharm,postman,androidstudio,bootstrap,eclipse,jenkins,kafka,kotlin,kubernetes,lua,md,mongodb,nginx,powershell,nodejs,stackoverflow,rabbitmq,wordpress" />
   </a>
 </p>
 
