@@ -17,8 +17,7 @@
 
 📫 联系方式
 
-- 邮箱：3441578327@qq.com
-- 邮箱：huangxuandev@126.com
+- 邮箱：[3441578327@qq.com](mailto:3441578327@qq.com) or [huangxuandev@126.com](mailto:huangxuandev@126.com)
 - 微信：hxtxjybs
 
 ---
@@ -70,13 +69,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=05Huang&theme=tokyonight"/>
 
-</p>
-
-<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05Huang&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=05Huang&theme=tokyo-night&hide_border=true" width="50%"/>
 </p>
 
 </p>
