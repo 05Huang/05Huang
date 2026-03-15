@@ -70,10 +70,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=05Huang&theme=tokyonight"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05Huang&layout=compact&theme=tokyonight"/>
-
-</p>
-
 </p>
 
 
