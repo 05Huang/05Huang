@@ -12,9 +12,8 @@
 - 🎓 江苏师范大学 · 软件工程
 - 🧪 方向：软件测试 / 自动化测试 / 测试平台
 - 🔧 技术背景：Java 后端开发 + 自动化测试
-- 🎯 目标：大三获得互联网大厂实习 Offer
 - 💬 博客：<https://blog.csdn.net/2301_79291071>
-
+- 📖 软件著作权两项
 📫 联系方式
 
 - 邮箱：[3441578327@qq.com](mailto:3441578327@qq.com) or [huangxuandev@126.com](mailto:huangxuandev@126.com)
@@ -22,16 +21,6 @@
 
 ---
 
-# 🧪 当前学习方向
-
-- 自动化测试框架（Python + Pytest + Selenium）
-- 接口测试（Requests / HttpRunner）
-- 性能测试（JMeter）
-- 测试平台开发
-- CI/CD 持续集成（Jenkins）
-- 测试左移 & 质量保障体系
-
----
 
 # 🧰 技术栈
 
