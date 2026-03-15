@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋 我是黄暄</h1>
+<h1 align="center">Hi 👋 我是黄暄，很荣幸在此与您相遇</h1>
 
 <p align="center">
 软件工程专业在读学生 ｜ 软件测开方向 <br/>
 拥有 <b>Java 后端开发背景</b>，正在成长为一名 <b>技术型测试工程师</b> 🚀
 </p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff7f00,40:ffff00,60:00ff00,80:0000ff,100:8b00ff&height=80&section=header"/>
+<p align="center">
 
 # 🚀 个人简介
 
